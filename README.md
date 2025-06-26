@@ -55,10 +55,7 @@ Logika umum:
 
 ## 🔧 Tools Used
 
-- PLC Software: *CX-Programmer / TIA Portal / Zelio Soft / lainnya*
-- PLC Hardware: *(Opsional: isi jika menggunakan model tertentu)*
-- Sensor Infrared / Proximity (simulasi atau real)
-- GitHub untuk dokumentasi versi
+- PLC Software:LogixPRO
 
 ---
 
@@ -70,9 +67,3 @@ Melalui project ini, saya belajar tentang pemrograman PLC, bagaimana menyusun lo
 Saya berharap repo ini bisa jadi referensi atau inspirasi bagi siapa pun yang ingin memulai belajar PLC dengan cara yang praktis dan menyenangkan.
 
 ---
-
-## 📫 Contact
-
-> **Fajar Richardo Nainggolan**  
-📧 Email: [your-email@example.com]  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](#)
