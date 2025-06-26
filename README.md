@@ -33,7 +33,7 @@ The system logic is implemented using **Ladder Diagram**, commonly used in indus
 
 ## 🪜 Ladder Diagram Preview
 
-![Ladder Diagram](Ladder_Diagramm.png)
+![Ladder Diagram](Ladder_Diagram.png)
 
 ---
 
